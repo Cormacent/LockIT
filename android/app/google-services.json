@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "394220631338",
+    "firebase_url": "https://lock-it-723a9.firebaseio.com",
+    "project_id": "lock-it-723a9",
+    "storage_bucket": "lock-it-723a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394220631338:android:c9bab8a57092062b711a53",
+        "android_client_info": {
+          "package_name": "com.example.lockit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394220631338-6637tog5joeq8tcthp626611a1dffkp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIAbOWjHHVZppk0rXbuKnc3T23ABbxX9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394220631338-6637tog5joeq8tcthp626611a1dffkp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
